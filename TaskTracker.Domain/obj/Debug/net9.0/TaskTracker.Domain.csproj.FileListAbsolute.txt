@@ -1,0 +1,11 @@
+C:\Users\Mystique\TaskTracker\TaskTracker.Domain\bin\Debug\net9.0\TaskTracker.Domain.deps.json
+C:\Users\Mystique\TaskTracker\TaskTracker.Domain\bin\Debug\net9.0\TaskTracker.Domain.dll
+C:\Users\Mystique\TaskTracker\TaskTracker.Domain\bin\Debug\net9.0\TaskTracker.Domain.pdb
+C:\Users\Mystique\TaskTracker\TaskTracker.Domain\obj\Debug\net9.0\TaskTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mystique\TaskTracker\TaskTracker.Domain\obj\Debug\net9.0\TaskTracker.Domain.AssemblyInfoInputs.cache
+C:\Users\Mystique\TaskTracker\TaskTracker.Domain\obj\Debug\net9.0\TaskTracker.Domain.AssemblyInfo.cs
+C:\Users\Mystique\TaskTracker\TaskTracker.Domain\obj\Debug\net9.0\TaskTracker.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mystique\TaskTracker\TaskTracker.Domain\obj\Debug\net9.0\TaskTracker.Domain.dll
+C:\Users\Mystique\TaskTracker\TaskTracker.Domain\obj\Debug\net9.0\refint\TaskTracker.Domain.dll
+C:\Users\Mystique\TaskTracker\TaskTracker.Domain\obj\Debug\net9.0\TaskTracker.Domain.pdb
+C:\Users\Mystique\TaskTracker\TaskTracker.Domain\obj\Debug\net9.0\ref\TaskTracker.Domain.dll

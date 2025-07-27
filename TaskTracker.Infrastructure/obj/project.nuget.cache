@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EmeBcezxFvs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mystique\\TaskTracker\\TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mystique\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.7\\microsoft.extensions.dependencyinjection.9.0.7.nupkg.sha512",
+    "C:\\Users\\Mystique\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.7\\microsoft.extensions.dependencyinjection.abstractions.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

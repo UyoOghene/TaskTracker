@@ -1,0 +1,17 @@
+C:\Users\Mystique\TaskTracker\TaskTracker.Infrastructure\bin\Debug\net9.0\TaskTracker.Infrastructure.deps.json
+C:\Users\Mystique\TaskTracker\TaskTracker.Infrastructure\bin\Debug\net9.0\TaskTracker.Infrastructure.dll
+C:\Users\Mystique\TaskTracker\TaskTracker.Infrastructure\bin\Debug\net9.0\TaskTracker.Infrastructure.pdb
+C:\Users\Mystique\TaskTracker\TaskTracker.Infrastructure\bin\Debug\net9.0\TaskTracker.Application.dll
+C:\Users\Mystique\TaskTracker\TaskTracker.Infrastructure\bin\Debug\net9.0\TaskTracker.Domain.dll
+C:\Users\Mystique\TaskTracker\TaskTracker.Infrastructure\bin\Debug\net9.0\TaskTracker.Application.pdb
+C:\Users\Mystique\TaskTracker\TaskTracker.Infrastructure\bin\Debug\net9.0\TaskTracker.Domain.pdb
+C:\Users\Mystique\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net9.0\TaskTracker.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mystique\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net9.0\TaskTracker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mystique\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net9.0\TaskTracker.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mystique\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net9.0\TaskTracker.Infrastructure.AssemblyInfo.cs
+C:\Users\Mystique\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net9.0\TaskTracker.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mystique\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net9.0\TaskTrac.CA91C8E6.Up2Date
+C:\Users\Mystique\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net9.0\TaskTracker.Infrastructure.dll
+C:\Users\Mystique\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net9.0\refint\TaskTracker.Infrastructure.dll
+C:\Users\Mystique\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net9.0\TaskTracker.Infrastructure.pdb
+C:\Users\Mystique\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net9.0\ref\TaskTracker.Infrastructure.dll
